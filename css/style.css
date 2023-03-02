@@ -16,8 +16,11 @@ p {
 }
 
 footer {
-    background-color: #e5e5e5;
+    color: #000;
+    opacity: 1;
+    background-color: #d8d8d8;
     padding: 20px 0 0 0;
+
 }
 
 ul {
@@ -46,6 +49,10 @@ li {
     background-size: 400px;
     background-color: #d7d7d7;
     background-position: 10% 15%;
+}
+
+.text-div {
+    text-shadow:  2px 2px #000;
 }
 
 .text {
@@ -126,7 +133,6 @@ svg {
 }
 
 .post-footer {
-    opacity: 50%;
     display: flex;
     justify-content: center;
     text-align: center;
