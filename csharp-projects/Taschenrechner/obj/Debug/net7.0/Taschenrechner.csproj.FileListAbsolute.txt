@@ -1,0 +1,15 @@
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/bin/Debug/net7.0/Taschenrechner
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/bin/Debug/net7.0/Taschenrechner.deps.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/bin/Debug/net7.0/Taschenrechner.runtimeconfig.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/bin/Debug/net7.0/Taschenrechner.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/bin/Debug/net7.0/Taschenrechner.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.csproj.AssemblyReference.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.AssemblyInfoInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.AssemblyInfo.cs
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.csproj.CoreCompileInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/refint/Taschenrechner.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/Taschenrechner.genruntimeconfig.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Taschenrechner/obj/Debug/net7.0/ref/Taschenrechner.dll

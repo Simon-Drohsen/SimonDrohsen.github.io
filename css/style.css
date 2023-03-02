@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap');
+
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    color: black;
+    Background-color: #f5f5f5;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+footer {
+    background-color: #e5e5e5;
+    padding: 20px 0 0 0;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.first-page{
+    padding: 0;
+}
+
+.container {
+    background-image: url(../img/wvision_rgb.svg);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-color: #d7d7d7;
+    background-position: 10% 15%;
+}
+
+.text {
+    color: white;
+    margin: 10px;
+}
+
+.btn-grid {
+    grid-gap: 23%;
+    justify-content: center;
+    padding: 20px;
+    max-width: none;
+}
+
+.btn {
+    width: 180px;
+    height: 60px;
+    cursor: pointer;
+    background: transparent;
+    border: 1px solid #0d64aa;
+    outline: none;
+    transition: 1s ease-in-out;
+}
+
+svg {
+    position: absolute;
+    fill: none;
+}
+
+.btn span {
+    font-size: 18px;
+    font-weight: 100;
+    color: #0d64aa;
+}
+
+.btn:hover {
+    transition: 1s ease-in-out;
+    background: #0d64aa;
+}
+
+.btn:hover span {
+    transition: 1s ease-in-out;
+    color: #f5f5f5;
+}
+
+.btn:hover svg {
+    transition: 1s ease-in-out;
+    color: #0d64aa;
+}
+
+.h1-about {
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.p-about {
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.first-website {
+    width: 65%;
+    margin-top: 0;
+}
+
+.district {
+    width: 65%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.download-csharp {
+    font-weight: 50 !important;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.post-footer {
+    opacity: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.social-media {
+    display: flex;
+    padding: 20px 0;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 1250px) {
+    .text-div
+    {
+        justify-content: flex-end
+    }
+
+    .btn-grid {
+        grid-gap: 10%;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    .first-page
+    {
+        height: 100%;
+    }
+
+    .container
+    {
+        background-image: none;
+    }
+    .me
+    {
+
+    }
+
+    .btn-grid {
+        flex-direction: column;
+        align-items: center;
+        grid-gap: 10px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .me
+    {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        height: auto;
+    }
+}
