@@ -35,6 +35,10 @@ li {
     padding: 0 10px;
 }
 
+a {
+    text-align: center;
+}
+
 .h4 {
     font-size: 1.5rem;
 }
