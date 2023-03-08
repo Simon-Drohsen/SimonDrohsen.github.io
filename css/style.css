@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap');
 
-body {
+* {
     overflow-x: hidden;
     margin: 0;
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 700;
     color: black;
+}
+
+body {
     Background-color: #f5f5f5;
 }
 
