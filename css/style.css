@@ -169,15 +169,16 @@ svg {
     {
         background-image: none;
     }
-    .me
-    {
-
-    }
 
     .btn-grid {
         flex-direction: column;
         align-items: center;
         grid-gap: 10px;
+    }
+
+    .uk-section {
+        padding-bottom: 10px;
+        padding-top: 10px;
     }
 }
 
