@@ -1,0 +1,15 @@
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black Jack Internet.csproj.AssemblyReference.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black Jack Internet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black Jack Internet.AssemblyInfoInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black Jack Internet.AssemblyInfo.cs
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black Jack Internet.csproj.CoreCompileInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/bin/Debug/net7.0/Black_jack_Internet
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/bin/Debug/net7.0/Black_jack_Internet.deps.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/bin/Debug/net7.0/Black_jack_Internet.runtimeconfig.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/bin/Debug/net7.0/Black_jack_Internet.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/bin/Debug/net7.0/Black_jack_Internet.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black_jack_Internet.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/refint/Black_jack_Internet.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black_jack_Internet.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/Black Jack Internet.genruntimeconfig.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black_jack_Internet/obj/Debug/net7.0/ref/Black_jack_Internet.dll

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E019931C-EC21-4B7A-8710-863B650AC110}|Default">
+  <MonoDevelop.Ide.ItemProperties.Black_220Jack_220Internet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Taschenrechner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Black Jack 2/Black_Jack_2.cs">
+    <Files>
+      <File FileName="Black Jack 2/Black_Jack_2.cs" Line="31" Column="22" />
+      <File FileName="Black Jack/Black_Jack.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="w-vision" expanded="True">
+            <Node name="Projektmappenelemente" expanded="True" />
+            <Node name="Black Jack" expanded="True" />
+            <Node name="Black Jack 2" expanded="True">
+              <Node name="Black_Jack_2.cs" selected="True" />
+            </Node>
+            <Node name="Black Jack Internet" expanded="True" />
+            <Node name="Taschenrechner" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Black_220Jack_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Black_220Jack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

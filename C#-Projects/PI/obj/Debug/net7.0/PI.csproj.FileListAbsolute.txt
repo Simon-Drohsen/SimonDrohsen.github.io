@@ -1,0 +1,15 @@
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/bin/Debug/net7.0/PI
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/bin/Debug/net7.0/PI.deps.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/bin/Debug/net7.0/PI.runtimeconfig.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/bin/Debug/net7.0/PI.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/bin/Debug/net7.0/PI.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.csproj.AssemblyReference.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.AssemblyInfoInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.AssemblyInfo.cs
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.csproj.CoreCompileInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/refint/PI.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/PI.genruntimeconfig.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/PI/obj/Debug/net7.0/ref/PI.dll

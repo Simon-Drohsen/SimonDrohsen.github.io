@@ -1,0 +1,814 @@
+.email {
+    font-family: "barlow", sans-serif;
+}
+
+.fixed-head {
+    position: fixed;
+    background-color: white;
+    box-shadow: -1px 6px 11px -1px rgba(0, 0, 0, 0.61);
+    z-index: 999;
+    margin-top: -100px;
+    width: 100%;
+}
+
+.logo {
+    height: 100px;
+}
+
+.title {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.title-image {
+    background-image: url("../img/assets/home-hero.webp");
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    margin-top: 70px;
+}
+
+.title-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.nav-ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.menu {
+    padding: 100px;
+    object-fit: scale-down;
+    flex-direction: row;
+}
+
+.menu-3-button {
+    position: relative;
+    text-align: center;
+    color: black;
+    padding: 10px 0;
+}
+
+.menu-3-p {
+    padding: 20px 0;
+}
+
+.menu-1 {
+    width: 100%;
+    height: 100%
+}
+
+.menu-2 {
+    width: 100%;
+    height: 100%
+}
+
+.menu-coffee:hover {
+    filter: motionblur(0.1);
+    transition: filter 1s;
+}
+
+.menu-3 {
+    background-image: url("../img/assets/home-menu-03.webp");
+    background-position: center;
+    padding-left: 1px;
+    overflow: hidden;
+}
+
+.text-in-menu-3 {
+    position: relative;
+    text-align: center;
+    color: black;
+    padding: 20px 0;
+    font-size: 20px;
+    margin: auto;
+    height: 89%;
+}
+
+.selection-text {
+    margin-top: 100px;
+}
+
+.all-breads {
+    background-repeat: no-repeat;
+    background-position: 80% 217%;
+    background-size: 500px;
+    padding-bottom: 100px;
+}
+
+.product-middle {
+    height: 545px;
+    width: auto;
+    margin: 0 200px;
+    object-fit: contain;
+}
+
+.product-left-div {
+    justify-content: left;
+}
+
+.product-left {
+    height: 545px;
+    width: auto;
+}
+
+.product-right-div {
+    justify-content: right;
+}
+
+.product-right {
+    height: 545px;
+    width: auto;
+}
+
+.district-cafe-and-bakery {
+    height: 600px;
+    right: 300px;
+    padding-left: 500px;
+    background-repeat: no-repeat;
+}
+
+.about-div {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.about-picture {
+    background-image: url("../img/assets/home-about-bg.webp");
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+
+.about-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.latein-text-kuchen {
+    justify-content: flex-end;
+}
+
+.latein-text {
+    font-size: 13px;
+    text-align: left;
+    align-items: baseline;
+    padding: 200px;
+}
+
+.latein-bild {
+    height: 545px;
+    width: auto;
+    padding-top: 72px;
+}
+
+.bar-images {
+    object-fit: contain;
+}
+
+.gallery-1,
+.gallery-2,
+.gallery-3 {
+    object-fit: cover;
+}
+
+.latein-2 {
+    padding: 150px;
+    text-align: left;
+}
+
+.explore,
+.our-district,
+.our-food,
+.latein-p-text,
+.we-cater-you,
+.opening {
+    padding-bottom: 25px;
+}
+
+.latein-2-öffnungszeiten {
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.oeffnungszeiten {
+    border-left: solid black;
+    padding-left: 100px;
+    padding-top: 150px;
+    text-align: left;
+}
+
+.mitarbeiterin {
+    height: 60vh;
+    background-color: lavenderblush;
+    position: relative;
+}
+
+.mitarbeiterin-image-div {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    color: #000;
+}
+
+.mitarbeiterin-image {
+    height: 500px;
+    width: auto;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+}
+
+.halbbrot {
+    height: 100%;
+    width: 45%;
+}
+
+.join-team-div {
+    height: 100%;
+    width: auto;
+}
+
+.find-us {
+    position: absolute;
+    left: 40%;
+}
+
+.follow-us {
+
+}
+
+.follow-us-text {
+    padding: 100px;
+}
+
+.footer {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.baked-goods::after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 25px;
+    background-color: #000;
+    top: 100%;
+    right: 98%;
+    left: 0;
+}
+
+.footer-buttons {
+    border-left: black solid;
+}
+
+.imprint-footer-button {
+    border-left: black solid;
+    border-right: black solid;
+}
+
+.post-footer {
+    margin: 20px 0 50px 0;
+    opacity: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 10px;
+    row-gap: 20px;
+}
+
+.grid-item-1 {
+    grid-column: 2 / span 3;
+    width: auto;
+}
+
+.grid-item-email {
+}
+
+.explore-taste {
+    margin-top: 150px;
+    padding-left: 2%;
+    position: relative;
+}
+
+.product-brot {
+    position: absolute;
+    left: 75%;
+    bottom: -300%;
+}
+
+.bread-description {
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.bread-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+}
+
+.bread-item {
+    z-index: 99;
+}
+
+.bread-box {
+    box-sizing: border-box;
+    background-size: cover;
+    background-color: rgb(249 249 249);
+    height: 40vh;
+    width: 40vh;
+}
+
+.bread-rows-margin {
+    margin-left: 20px!important;
+}
+
+.about-box {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.more-about-us {
+    height: fit-content;
+}
+
+.start-the-day {
+    background-color: rgba(0, 0, 0, 0.05);
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+.start-the-day-text {
+    padding: 100px 50px;
+    justify-content: center;
+}
+
+.experienced-team {
+    background-color: lavenderblush;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.experienced-team-text {
+    padding: 100px 50px
+}
+
+.mitarbeiterin-experienced-team,
+.fruit-salad{
+    height: 36vh;
+}
+
+.about-h2 {
+    font-size: 45px;
+    text-align: left;
+    padding: 40px 15px;
+}
+
+.menu-head {
+
+}
+
+.menu-head-image {
+    background-image: url("../img/assets/menu-hero-bg.webp");
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    margin-top: 80px;
+}
+
+.menu-head-text {
+    text-align: center;
+    color: white;
+    padding: 190px 0;
+}
+
+.width-1-4-bar {
+    width: 25%;
+}
+
+.width-1-2-bar {
+    width: 50%;
+}
+
+@media only screen and (max-width: 1600px) {
+
+    .bread-grid {
+        grid-template-columns: auto auto auto;
+    }
+}
+
+@media only screen and (max-width: 1500px) {
+
+    .latein-2,
+    .oeffnungszeiten {
+        padding: 10px;
+        margin: 50px 0;
+    }
+
+    .breakfast-grid {
+        grid-template-columns: auto auto;
+    }
+
+    .breakfast-item-5 {
+        grid-column: span 1
+    }
+
+    .omelette-bewertung {
+        position: static;
+    }
+
+    .gallery-3 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .latein-2-öffnungszeiten {
+        padding: 0 10px;
+    }
+
+
+    .sandwich-plate {
+        width: 100%;
+    }
+
+    .sweets-background {
+        display: contents;
+    }
+
+    .sweets-section {
+        position: relative;
+    }
+
+    .sweets-img {
+        display: flex;
+    }
+
+    .cutted-bread-background {
+        background-position: 100% 45%
+    }
+
+    .fruit-salad,
+    .mitarbeiterin-experienced-team {
+        width: fit-content;
+    }
+
+    .start-the-day,
+    .experienced-team {
+    }
+
+    .experienced-team-text,
+    .start-the-day-text {
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 1215px) {
+    .cookies {
+        overflow: hidden;
+    }
+
+    .bread-grid {
+        grid-template-columns: auto auto;
+    }
+
+    .fruit-salad,
+    .mitarbeiterin-experienced-team {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+
+    .first-location,
+    .second-location,
+    .third-location {
+        padding: 0;
+    }
+
+    .mitarbeiterin-image {
+        display: none;
+    }
+
+    .product-right {
+        display: none;
+    }
+
+    .subscribe-email {
+        line-break: auto;
+        order: 1;
+    }
+
+    .product-left {
+        display: none;
+    }
+
+    .grid-container {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        align-items: center;
+    }
+
+    .grid-item {
+        order: 2;
+    }
+
+    .breakfast-grid {
+        grid-template-columns: auto;
+    }
+
+    .coffee-tea-section {
+        flex-direction: column-reverse;
+        justify-content: center;
+        padding-top: 80%;
+    }
+
+    .coffee-tea-img {
+        width: 100%;
+        height: auto;
+    }
+
+    .coffee-tea-h3 {
+        margin: 0;
+    }
+
+    .footer-section {
+        padding: 50px;
+        flex-direction: column;
+        display: flex;
+        border-right: none;
+    }
+
+    .pre-footer {
+        order: 2;
+    }
+
+    .cookies {
+        overflow: hidden;
+    }
+
+    .visit-us-menu {
+        justify-content: center;
+    }
+
+    .section {
+        padding: 0;
+    }
+
+    .sandwiches-h3 {
+        margin: 0;
+    }
+
+    .sandwiches-section {
+        flex-direction: column-reverse;
+    }
+
+    .sweets-section {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .sweets-img {
+        left: 0;
+        height: auto;
+        width: 100%
+    }
+
+    .cookies-img {
+        display: flex;
+        align-items: center;
+    }
+
+    .explore-taste-menu {
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 0;
+    }
+
+    .explore-taste-text-menu {
+        display: flex;
+        align-items: center;
+    }
+
+    .explore-p-menu {
+        padding: 20px 0;
+    }
+
+    .container-box-large {
+        padding: 0;
+    }
+
+    .cutted-bread-background {
+        background-position: 100% 41%;
+        background-size: 15%;
+    }
+
+    .container-box-large {
+        padding: 0;
+    }
+
+    .product-brot {
+        display: none;
+    }
+
+    .explore-taste {
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .menu {
+        padding: 100px 0;
+    }
+
+    .gallery-1,
+    .gallery-2,
+    .gallery-3 {
+        width: 100%;
+        height: 400px;
+    }
+
+    .width-1-2-bar {
+        width: 100%;
+    }
+
+    .width-1-4-bar {
+        width: 100%;
+    }
+
+    .bar-images {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .product-middle,
+    .product-middle-div {
+        margin: 0 0 0 0;
+        overflow-x: hidden;
+    }
+
+    .latein-bild {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .visit-us-menu {
+        left: 3%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+     .footer {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footer-buttons {
+         border: none;
+     }
+
+     .imprint-footer-button {
+         border: none;
+     }
+
+     .all-footer-buttons {
+         padding: 20px 0;
+         flex-direction: column;
+     }
+
+     .baked-goods::after {
+         content: none;
+     }
+
+    .menu {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .menu-sandwich {
+        width: 100vh;
+    }
+
+    .menu-coffee {
+
+    }
+
+    .bread-grid {
+        grid-template-columns: auto;
+    }
+ }
+
+@media only screen and (max-width: 600px) {
+
+   .latein-text {
+       padding: 100px 10px;
+   }
+
+   .visit-us-menu {
+       display: none;
+   }
+
+   .cookies {
+       display: none;
+   }
+
+   .sweets-grid {
+       margin: 0 50px;
+       padding: 0;
+   }
+
+   .coffee-tea-grid {
+       margin: 0 50px;
+       padding: 0;
+   }
+
+   .sandwiches-grid {
+       margin: 0 50px;
+       padding: 0;
+   }
+
+   body {
+       overflow-x: hidden;
+   }
+
+   .coffee-tea-img-div {
+       position: relative;
+   }
+
+    .menu-sandwich {
+        width: 89%;
+    }
+
+    .menu-coffee {
+        width: 89%;
+    }
+
+    .menu-3 {
+        width: 89%;
+    }
+
+    .experienced-team-text,
+    .start-the-day-text {
+        padding: 50px;
+    }
+
+    .experienced-team,
+    .start-the-day {
+        width: 100%;
+    }
+
+    .about-box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about-h2 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+
+     h1 {
+         font-size: 55px;
+     }
+
+     h2 {
+         font-size: 35px;
+     }
+
+     .breakfast-h3 {
+         padding: 0 20px 20px 50px;
+     }
+
+     .bread-item,
+     .bread-box{
+         height: auto;
+         align-items: center;
+         display: flex;
+         flex-direction: column;
+         width: 100%;
+     }
+ }

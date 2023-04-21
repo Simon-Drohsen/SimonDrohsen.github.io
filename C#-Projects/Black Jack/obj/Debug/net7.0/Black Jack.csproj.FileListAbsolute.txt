@@ -1,0 +1,15 @@
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/bin/Debug/net7.0/Black Jack
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/bin/Debug/net7.0/Black Jack.deps.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/bin/Debug/net7.0/Black Jack.runtimeconfig.json
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/bin/Debug/net7.0/Black Jack.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/bin/Debug/net7.0/Black Jack.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.csproj.AssemblyReference.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.AssemblyInfoInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.AssemblyInfo.cs
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.csproj.CoreCompileInputs.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/refint/Black Jack.dll
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.pdb
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/Black Jack.genruntimeconfig.cache
+/Users/simondrohsen/Documents/Schule/M319/w-vision/Black Jack/obj/Debug/net7.0/ref/Black Jack.dll

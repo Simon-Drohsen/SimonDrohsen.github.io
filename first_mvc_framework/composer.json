@@ -1,0 +1,16 @@
+{
+  "name": "gmaccario/simple-mvc-php-framework",
+  "description": "Simple MVC PHP framework: a demonstration of how to create a simple MVC framework in PHP",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "classmap": [
+      "app/"
+    ]
+  },
+  "require": {
+    "symfony/routing": "^6.2",
+    "symfony/http-foundation": "^6.2"
+  }
+}

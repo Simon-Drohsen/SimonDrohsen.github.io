@@ -1,0 +1,15 @@
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/bin/Debug/net7.0/W3
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/bin/Debug/net7.0/W3.deps.json
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/bin/Debug/net7.0/W3.runtimeconfig.json
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/bin/Debug/net7.0/W3.dll
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/bin/Debug/net7.0/W3.pdb
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.csproj.AssemblyReference.cache
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.AssemblyInfoInputs.cache
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.AssemblyInfo.cs
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.csproj.CoreCompileInputs.cache
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.dll
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/refint/W3.dll
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.pdb
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/W3.genruntimeconfig.cache
+/Users/simondrohsen/Documents/Projekte/c-sharp/W3/W3/obj/Debug/net7.0/ref/W3.dll

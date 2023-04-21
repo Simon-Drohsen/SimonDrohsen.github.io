@@ -1,0 +1,13 @@
+.uk-button-secondary {
+    color: #1a6bae;
+    background-color: #ebebeb;
+}
+
+.uk-button-secondary:hover {
+    background-color: #1a6bae;
+    color: #ebebeb;
+}
+
+.uk-card {
+    min-width: 330px;
+}

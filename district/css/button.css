@@ -1,0 +1,415 @@
+
+.main-nav {
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-decoration: none;
+}
+
+.nav {
+    font-size: 16px;
+    font-weight: 300;
+    padding: 0 10px;
+    display: inline;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+.nav:hover {
+    text-decoration: underline;
+    transition-duration: 0.3s;
+    cursor: pointer
+}
+
+.stores {
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 20px;
+}
+
+.stores:hover {
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.product-button {
+    font-size: 16px;
+    font-weight: 300;
+    display: inline-block;
+    background-color: transparent;
+    border-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    transition-duration: 0.4s;
+}
+
+.product-button:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.product-button-div {
+    text-align: center;
+}
+
+.about-us-button {
+
+}
+
+.about-us-button-div:hover {
+    background-color: #dedede;
+    background-size: 1px;
+    cursor: pointer
+}
+
+.about-us-button-div {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    font-family: sans-serif;
+    border: none;
+    padding: 22px;
+    background-size: 1px;
+    transition-duration: 0.4s;
+}
+
+.catering-menu {
+    background-color: transparent;
+    border-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    transition-duration: 0.4s;
+}
+
+.catering-menu:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.find-a-store {
+    background-color: transparent;
+    border-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    transition-duration: 0.3s;
+    width: 97px;
+}
+
+.find-a-store:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.join-team {
+    background-color: transparent;
+    border: transparent;
+}
+
+.join-team:hover {
+    text-decoration: underline;
+}
+
+.footer-buttons {
+    font-size: 16px;
+    font-weight: 300;
+    display: inline-block;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.imprint-footer-button {
+    font-size: 16px;
+    font-weight: 300;
+    display: inline-block;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.follow-us {
+    font-size: 16px;
+    font-weight: 300;
+    display: inline-block;
+    text-align: right;
+    width: auto;
+    padding: 0 10px;
+
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.button {
+
+}
+
+.button-48 {
+    appearance: none;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-width: 0;
+    box-sizing: border-box;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Clarkson,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1em;
+    margin: 0;
+    opacity: 1;
+    outline: 0;
+    padding: 1.5em 2.2em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: geometricprecision;
+    text-transform: uppercase;
+    transition: opacity 300ms cubic-bezier(.694, 0, 0.335, 1),background-color 100ms cubic-bezier(.694, 0, 0.335, 1),color 100ms cubic-bezier(.694, 0, 0.335, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.button-48:before {
+    animation: opacityFallbackOut .5s step-end forwards;
+    backface-visibility: hidden;
+    background-color: rgba(255, 255, 255, 100);
+    clip-path: polygon(-1% 0, 0 0, -25% 100%, -1% 100%);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: translateZ(0);
+    transition: clip-path .5s cubic-bezier(.165, 0.84, 0.44, 1), -webkit-clip-path .5s cubic-bezier(.165, 0.84, 0.44, 1);
+    width: 100%;
+}
+
+.button-48:hover:before {
+    animation: opacityFallbackIn 0s step-start forwards;
+    clip-path: polygon(0 0, 101% 0, 101% 101%, 0 101%);
+}
+
+.button-48:after {
+    background-color: rgba(255, 255, 255, 100);
+}
+
+.button-48 span {
+    z-index: 1;
+    position: relative;
+}
+
+
+.button-49,
+.button-49:after {
+    width: 150px;
+    height: 76px;
+    line-height: 78px;
+    font-size: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    background: linear-gradient(45deg, transparent 5%, #000000 5%);
+    border: 0;
+    color: #fff;
+    letter-spacing: 3px;
+    outline: transparent;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-49:after {
+    --slice-0: inset(50% 50% 50% 50%);
+    --slice-1: inset(80% -6px 0 0);
+    --slice-2: inset(50% -6px 30% 0);
+    --slice-3: inset(10% -6px 85% 0);
+    --slice-4: inset(40% -6px 43% 0);
+    --slice-5: inset(80% -6px 5% 0);
+
+    content: 'All Products';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, transparent 3%, grey 3%, gray 5%, #883913 5%);
+    text-shadow: -3px -3px 0 #b23f00, 3px 3px 0 #29ff00;
+    clip-path: var(--slice-0);
+}
+
+.button-49:hover:after {
+    animation: 1s glitch;
+    animation-timing-function: steps(2, end);
+}
+
+@keyframes glitch {
+    0% {
+        clip-path: var(--slice-1);
+        transform: translate(-20px, -10px);
+    }
+    10% {
+        clip-path: var(--slice-3);
+        transform: translate(10px, 10px);
+    }
+    20% {
+        clip-path: var(--slice-1);
+        transform: translate(-10px, 10px);
+    }
+    30% {
+        clip-path: var(--slice-3);
+        transform: translate(0px, 5px);
+    }
+    40% {
+        clip-path: var(--slice-2);
+        transform: translate(-5px, 0px);
+    }
+    50% {
+        clip-path: var(--slice-3);
+        transform: translate(5px, 0px);
+    }
+    60% {
+        clip-path: var(--slice-4);
+        transform: translate(5px, 10px);
+    }
+    70% {
+        clip-path: var(--slice-2);
+        transform: translate(-10px, 10px);
+    }
+    80% {
+        clip-path: var(--slice-5);
+        transform: translate(20px, -10px);
+    }
+    90% {
+        clip-path: var(--slice-1);
+        transform: translate(-10px, 0px);
+    }
+    100% {
+        clip-path: var(--slice-1);
+        transform: translate(0);
+    }
+}
+
+@media (min-width: 768px) {
+    .button-49,
+    .button-49:after {
+        width: 200px;
+        height: 86px;
+        line-height: 88px;
+    }
+}
+
+.button-52 {
+    font-size: 16px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    padding: 13px 20px 13px;
+    outline: 0;
+    border: 1px solid rgb(0, 0, 0);
+    cursor: pointer;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    color: white;
+}
+
+.button-52:after {
+    content: "";
+    background-color: #883913;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 7px;
+    left: 7px;
+    transition: 0.2s;
+}
+
+.button-52:hover:after {
+    top: 0;
+    left: 0;
+}
+
+@media (min-width: 768px) {
+    .button-52 {
+        padding: 13px 50px 13px;
+    }
+}
+
+.button-56 {
+    align-items: center;
+    background-color: #ffffff;
+    border: 2px solid #111;
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: #111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    height: 48px;
+    justify-content: center;
+    line-height: 24px;
+    max-width: 100%;
+    padding: 0 25px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-56:after {
+    background-color: #111;
+    border-radius: 8px;
+    content: "";
+    display: block;
+    height: 48px;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    top: -2px;
+    transform: translate(8px, 8px);
+    transition: transform .2s ease-out;
+    z-index: -1;
+}
+
+.button-56:hover:after {
+    transform: translate(0, 0);
+}
+
+.button-56:active {
+    background-color: #ffdeda;
+    outline: 0;
+}
+
+.button-56:hover {
+    outline: 0;
+}
+
+@media (min-width: 768px) {
+    .button-56 {
+        padding: 0 40px;
+    }
+}
