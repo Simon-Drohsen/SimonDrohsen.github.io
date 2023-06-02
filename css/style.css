@@ -63,12 +63,8 @@ a {
     background-position: 10% 15%;
 }
 
-.text-div {
-    text-shadow:  2px 2px #000;
-}
-
 .text {
-    color: white;
+    color: #000000;
     margin: 10px;
 }
 
