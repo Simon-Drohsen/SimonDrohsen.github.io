@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap');
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    color: #000;
+    transition: all 0.5s ease-in-out;
+    position: absolute;
+    top: 40%;
+    left: 36%;
+}
