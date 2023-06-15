@@ -9,6 +9,15 @@ curl_close($curl);
 
 $data = json_decode($response, true);
 
+if ($data) {
+    foreach ($data as $question) {
+        echo "Frage: " . $question['question']['text'] . "<br>";
+        echo "Korrekte Antwort: " . $question['correctAnswer'] . "<br>";
+        echo "Falsche Antworten: " . implode(", ", $question['incorrectAnswers']) . "<br>";
+        echo "<br>";
+    }
+}
+
 $temp = $data['data']['timelines'][0]['intervals'][0]['values']['temperature'];
 ?>
 
